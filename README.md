@@ -14,10 +14,10 @@ För att kunna regalera och styra vad för enheter är på och hur länge de är
 ”Det blir allt vanligare med bränder i batteriförsedda elektronikprodukter. Både de uppladdningsbara batterierna och själva laddaren kan börja brinna” (brandsskyddföreningen.se, u.å)
 
 Reccensioner av likande produkter:
-	Inte kompatibel för olika system 
-	Man behövde skapa ett konto med sin mejladress för att kunna styra produkten 
-	Svårt att koppla produkten till sin mobil/dator/ipad
-	Saknar backup-batteri och kan tappa inställningar i fall av strömavbrott. 
+* Inte kompatibel för olika system 
+* Man behövde skapa ett konto med sin mejladress för att kunna styra produkten 
+* Svårt att koppla produkten till sin mobil/dator/ipad
+* Saknar backup-batteri och kan tappa inställningar i fall av strömavbrott. 
 
 ### Fördelar med Peaksaver
 
