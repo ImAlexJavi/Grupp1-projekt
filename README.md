@@ -7,7 +7,7 @@ Vår idé är en elkontakt med en sensor i som kan känna av om strömmen är p�
 Vår målgrupp är användare som vill ha ökad trygghet och koll på sina elektriska enheter som är kopplade till eluttag.
 
 ### Varför
-För att kunna regalera och styra vad för enheter är på och hur länge de är på. Tillexempel där man kopplar in locktång. 
+För att kunna regalera och styra vilka enheter som är på och hur länge de är på. Tillexempel om man kopplar in locktång kan man stänga av den elkontakten från appen. 
 
 ### Omvärldsanalys
 
