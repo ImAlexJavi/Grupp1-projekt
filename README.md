@@ -29,8 +29,6 @@ Lisa har försovit sig till jobbet, hon står i badrummet och lockar snabbt sitt
 * Timerfunktioner minskar onödig energiförbrukning
 * Passar for många olika målgrupper av användare
 * Går att använd på alla platser (skola, hemma, på jobbet)
-<img width="470" height="140" alt="image" src="https://github.com/user-attachments/assets/767e0090-9832-4a1a-af4f-ca907aab5670" />
-
 
 Första skissen av *PeakSaver* 
 <img width="908" height="622" alt="BF217DD8-E89A-432E-948D-2265D82F75AA" src="https://github.com/user-attachments/assets/dd63f0f3-d5ae-4c4b-973d-d647e90f8f27" />
