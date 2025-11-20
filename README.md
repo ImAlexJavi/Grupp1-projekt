@@ -11,3 +11,5 @@ För att kunna regalera och styra vad för enheter är på och hur länge de är
 Kontext/ scenario:
 Lisa har försovit sig till jobbet, hon står i badrummet och lockar snabbt sitt hår. Hon sätter ner locktången på badrumsbänken och skyndar ner sig till hallen för att sätta på sig jacka och skor. Hon hinner precis på tåget och hittar en sittplats. När hon har satt sig ner och stressen har landat inser hon att hon glömde stänga av locktången. En sekunds av panik men sen inser hon att hon har The Plug, appen som är kopplad till en sensor som sitter i elkontakten som Lisas locktång sitter i. Hon går in på appen och kan enkelt stänga av strömmen till elkontakten. Nu kan hon luta sig tillbaka och njuta av resan till jobbet.
 
+Första skissen av *The Plug* 
+<img width="908" height="622" alt="BF217DD8-E89A-432E-948D-2265D82F75AA" src="https://github.com/user-attachments/assets/dd63f0f3-d5ae-4c4b-973d-d647e90f8f27" />
