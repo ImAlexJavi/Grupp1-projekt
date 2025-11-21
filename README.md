@@ -22,13 +22,11 @@ Reccensioner av likande produkter:
 ### scenario
 
 
-Lisa har försovit sig till jobbet, hon står i badrummet och plattar snabbt sitt hår.
+Lisa har försovit sig till jobbet, hon står i badrummet och lockar snabbt sitt hår.
 
 
 Hon sätter ner locktången på badrumsbänken och skyndar ner sig till hallen för att sätta på sig jacka och skor. Hon hinner precis på tåget och hittar en sittplats. När hon har satt sig ner och stressen har landat inser hon att hon glömde stänga av locktången. En sekunds av panik men sen inser hon att hon har PeakSaver, appen som är kopplad till en sensor som sitter i elkontakten som Lisas locktång sitter i. Hon går in på appen och kan enkelt stänga av strömmen till elkontakten. Nu kan hon luta sig tillbaka och njuta av resan till jobbet.
 
-
-Hon sätter ner platttången på badrumsbänken och skyndar ner sig till hallen för att sätta på sig jacka och skor. Hon hinner precis på tåget och hittar en sittplats. När hon har satt sig ner och stressen har landat inser hon att hon glömde stänga av platttången. En sekunds av panik men sen inser hon att hon har PeakSaver, appen som är kopplad till en sensor som sitter i elkontakten som Lisas locktång sitter i. Hon går in på appen och kan enkelt stänga av strömmen till elkontakten. Nu kan hon luta sig tillbaka och njuta av resan till jobbet.
 
 ### Fördelar med Peaksaver
 * Schemaläggning av påslag/avslag strömmen 
