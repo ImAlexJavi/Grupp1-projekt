@@ -1,7 +1,9 @@
 # Projekt 1 - Peaksaver
 
 ## Vår idé
-Vår idé är en elkontakt med en sensor i som kan känna av om strömmen är på eller av. Sensorn är även kopplat till en app och i appen kan användare sätta timer för eluttaget samt genom appen slå på/ slå av strömmen till uttaget.  
+Vår idé är en elkontakt med en sensor i som kan känna av om strömmen är på eller av. 
+Sensorn är även kopplat till en app och i appen kan användare sätta timer för eluttaget samt genom appen slå på/ slå av strömmen till uttaget.  
+![PeakSaver](https://github.com/user-attachments/assets/a5979081-3e3c-4e19-b87d-a4953e78b38b)
 
 ### Målgrupp
 Vår målgrupp är användare som vill ha ökad trygghet och koll på sina elektriska enheter som är kopplade till eluttag.
