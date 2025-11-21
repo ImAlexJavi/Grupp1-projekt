@@ -1,4 +1,4 @@
-# Projekt 1 - Peaksaver
+# Projekt - Peaksaver
 
 ## Vår idé
 Vår idé är en elkontakt med en sensor som kan känna av om något är i kopplat.
