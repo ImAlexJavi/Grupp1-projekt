@@ -33,6 +33,8 @@ Hon sätter ner locktången på badrumsbänken och skyndar ner sig till hallen f
 
 Hon går in på appen och kan enkelt stänga av strömmen till elkontakten.
 Nu kan hon luta sig tillbaka och njuta av resan till jobbet.
+
+
 ![IMG_2808](https://github.com/user-attachments/assets/ef8f0fcb-3cc1-442b-96f5-40373d1d9896)
 
 
