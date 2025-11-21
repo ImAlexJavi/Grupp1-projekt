@@ -3,6 +3,8 @@
 ## Vår idé
 Vår idé är en elkontakt med en sensor som kan känna av om något är i kopplat.
 Den elektriska sensorn är kopplad till en app och i appen kan användare sätta timer för eluttaget samt genom appen slå på/ slå av strömmen till uttaget. Vilket gör denna prodkukt till en "smart socket" 
+
+
 ![PeakSaver](https://github.com/user-attachments/assets/a5979081-3e3c-4e19-b87d-a4953e78b38b)
 
 ### Målgrupp
